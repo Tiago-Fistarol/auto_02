@@ -1,0 +1,187 @@
+2025-06-23 14:08:04,747 - ERROR - Erro de configuração: Pasta de download não encontrada: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads relatórios
+2025-06-23 14:08:57,069 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:08:58,980 - INFO - Codificação detectada: ascii (confiança: 1.00)
+2025-06-23 14:08:59,178 - INFO - Arquivo processado com sucesso. Linhas processadas: 10553
+2025-06-23 14:09:01,478 - INFO - Abrindo arquivo: CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:09:02,152 - INFO - Aguardando Excel carregar com título: ldi00000000082420ldi082424...
+2025-06-23 14:09:05,876 - INFO - Conectado ao Excel: ldi00000000082420ldi082424.csv - Excel
+2025-06-23 14:09:05,880 - INFO - Excel aberto e responsivo.
+2025-06-23 14:09:08,023 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:09:08,199 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:09:08,374 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:09:08,374 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:09:12,579 - INFO - Excel fechado sem salvar.
+2025-06-23 14:09:12,692 - INFO - Processo Excel 12412 terminado.
+2025-06-23 14:11:48,910 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:11:48,951 - INFO - Codificação detectada: ascii (confiança: 1.00)
+2025-06-23 14:11:49,128 - INFO - Arquivo processado com sucesso. Linhas processadas: 10550
+2025-06-23 14:11:51,435 - INFO - Abrindo arquivo: CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:11:51,541 - INFO - Aguardando Excel carregar com título: ldi00000000082420ldi082424...
+2025-06-23 14:12:02,618 - INFO - Conectado ao Excel: ldi00000000082420ldi082424.csv - Excel
+2025-06-23 14:12:02,796 - INFO - Excel aberto e responsivo.
+2025-06-23 14:12:04,933 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:12:05,114 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:12:05,289 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:12:05,290 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:12:14,542 - WARNING - Não foi possível fechar o Excel de forma suave, forçando: Handle 1901998 is not a vaild window handle
+2025-06-23 14:14:20,417 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:14:20,457 - INFO - Codificação detectada: ascii (confiança: 1.00)
+2025-06-23 14:14:20,638 - INFO - Arquivo processado com sucesso. Linhas processadas: 10547
+2025-06-23 14:14:23,027 - INFO - Abrindo arquivo: CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:14:23,145 - INFO - Aguardando Excel carregar com título: ldi00000000082420ldi082424...
+2025-06-23 14:14:26,939 - INFO - Conectado ao Excel: ldi00000000082420ldi082424.csv - Excel
+2025-06-23 14:14:26,941 - INFO - Excel aberto e responsivo.
+2025-06-23 14:14:29,108 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:14:29,284 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:14:29,462 - ERROR - Erro ao copiar dados: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:14:29,463 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:14:33,691 - INFO - Excel fechado sem salvar.
+2025-06-23 14:17:16,062 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:17:16,105 - INFO - Codificação detectada: ascii (confiança: 1.00)
+2025-06-23 14:17:16,304 - INFO - Arquivo processado com sucesso. Linhas processadas: 10544
+2025-06-23 14:17:18,689 - INFO - Abrindo arquivo: CSVLDI00000000082420LDI[1]082424.sswweb
+2025-06-23 14:17:18,794 - INFO - Aguardando Excel carregar com título: ldi00000000082420ldi082424...
+2025-06-23 14:17:22,747 - INFO - Conectado ao Excel: ldi00000000082420ldi082424.csv - Excel
+2025-06-23 14:17:22,749 - INFO - Excel aberto e responsivo.
+2025-06-23 14:17:24,896 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:17:25,397 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:17:25,915 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-23 14:17:29,980 - INFO - Excel fechado sem salvar.
+2025-06-23 14:17:44,047 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-23 14:17:44,833 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-23 14:17:47,417 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-23 14:17:47,419 - INFO - Excel aberto e responsivo.
+2025-06-23 14:17:50,504 - INFO - Dados colados na planilha de destino.
+2025-06-23 14:17:55,551 - INFO - Planilha salva.
+2025-06-23 14:17:55,551 - INFO - Processamento concluído com sucesso!
+2025-06-23 14:17:55,552 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:17:55,552 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:17:55,557 - INFO - Processo Excel 9692 terminado.
+2025-06-23 14:17:57,560 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:37:59,534 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-23 14:38:29,425 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000143809LDI[1]143814.sswweb
+2025-06-23 14:38:29,454 - INFO - Codificação detectada: ascii (confiança: 1.00)
+2025-06-23 14:38:29,662 - INFO - Arquivo processado com sucesso. Linhas processadas: 10924
+2025-06-23 14:38:32,032 - INFO - Abrindo arquivo: CSVLDI00000000143809LDI[1]143814.sswweb
+2025-06-23 14:38:32,145 - INFO - Aguardando Excel carregar com título: ldi00000000143809ldi143814...
+2025-06-23 14:38:36,142 - INFO - Conectado ao Excel: ldi00000000143809ldi143814.csv - Excel
+2025-06-23 14:38:36,145 - INFO - Excel aberto e responsivo.
+2025-06-23 14:38:38,282 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:38:38,784 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:38:39,285 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:38:39,795 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-23 14:38:44,107 - INFO - Excel fechado sem salvar.
+2025-06-23 14:38:58,205 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-23 14:38:58,538 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-23 14:39:03,776 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-23 14:39:03,778 - INFO - Excel aberto e responsivo.
+2025-06-23 14:39:06,863 - INFO - Dados colados na planilha de destino.
+2025-06-23 14:39:11,905 - INFO - Planilha salva.
+2025-06-23 14:39:11,906 - INFO - Processamento concluído com sucesso!
+2025-06-23 14:39:11,906 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:39:11,907 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:39:11,917 - INFO - Processo Excel 13644 terminado.
+2025-06-23 14:39:13,922 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:41:13,280 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-23 14:41:44,178 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000144124LDI[1]144128.sswweb
+2025-06-23 14:41:44,227 - INFO - Codificação detectada: ascii (confiança: 1.00)
+2025-06-23 14:41:44,456 - INFO - Arquivo processado com sucesso. Linhas processadas: 10925
+2025-06-23 14:41:46,849 - INFO - Abrindo arquivo: CSVLDI00000000144124LDI[1]144128.sswweb
+2025-06-23 14:41:46,982 - INFO - Aguardando Excel carregar com título: ldi00000000144124ldi144128...
+2025-06-23 14:41:51,117 - INFO - Conectado ao Excel: ldi00000000144124ldi144128.csv - Excel
+2025-06-23 14:41:51,120 - INFO - Excel aberto e responsivo.
+2025-06-23 14:41:53,252 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:41:53,753 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:41:54,262 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-23 14:41:58,378 - INFO - Excel fechado sem salvar.
+2025-06-23 14:42:12,573 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-23 14:42:13,547 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-23 14:42:19,287 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-23 14:42:19,469 - INFO - Excel aberto e responsivo.
+2025-06-23 14:42:23,654 - INFO - Dados colados na planilha de destino.
+2025-06-23 14:42:28,703 - INFO - Planilha salva.
+2025-06-23 14:42:28,703 - INFO - Processamento concluído com sucesso!
+2025-06-23 14:42:28,704 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:42:28,705 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:42:28,726 - INFO - Processo Excel 7976 terminado.
+2025-06-23 14:42:30,731 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:43:32,862 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-23 14:44:01,724 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000144342LDI[1]144346.sswweb
+2025-06-23 14:44:01,724 - CRITICAL - Erro fatal no processamento: 'ExcelAutomation' object has no attribute 'processar_arquivo_texto'
+Traceback (most recent call last):
+  File "c:\Users\Administrador\Documents\Projetos\auto_02\subdiretorio\alimentacao_planilha.py", line 285, in processar_arquivo
+    if not self.processar_arquivo_texto(ultimo_arquivo): return False
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ExcelAutomation' object has no attribute 'processar_arquivo_texto'. Did you mean: 'processar_arquivo'?
+2025-06-23 14:44:01,728 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:45:22,115 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-23 14:45:50,825 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000144531LDI[1]144535.sswweb
+2025-06-23 14:45:53,191 - INFO - Abrindo arquivo: CSVLDI00000000144531LDI[1]144535.sswweb
+2025-06-23 14:45:53,333 - INFO - Aguardando Excel carregar com título: ldi00000000144531ldi144535...
+2025-06-23 14:45:57,397 - INFO - Conectado ao Excel: ldi00000000144531ldi144535.csv - Excel
+2025-06-23 14:45:57,399 - INFO - Excel aberto e responsivo.
+2025-06-23 14:45:59,589 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:46:00,089 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:46:00,601 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-23 14:46:04,665 - INFO - Excel fechado sem salvar.
+2025-06-23 14:46:18,760 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-23 14:46:18,899 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-23 14:46:21,388 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-23 14:46:21,391 - INFO - Excel aberto e responsivo.
+2025-06-23 14:46:25,579 - INFO - Dados colados na planilha de destino.
+2025-06-23 14:46:30,635 - INFO - Planilha salva.
+2025-06-23 14:46:30,635 - INFO - Processamento concluído com sucesso!
+2025-06-23 14:46:30,635 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:46:30,635 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:46:30,648 - INFO - Processo Excel 14944 terminado.
+2025-06-23 14:46:32,650 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:46:46,272 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-23 14:47:15,296 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000144655LDI[1]144659.sswweb
+2025-06-23 14:47:17,777 - INFO - Abrindo arquivo: CSVLDI00000000144655LDI[1]144659.sswweb
+2025-06-23 14:47:17,960 - INFO - Aguardando Excel carregar com título: ldi00000000144655ldi144659...
+2025-06-23 14:47:22,130 - INFO - Conectado ao Excel: ldi00000000144655ldi144659.csv - Excel
+2025-06-23 14:47:22,306 - INFO - Excel aberto e responsivo.
+2025-06-23 14:47:24,483 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:47:24,986 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-23 14:47:25,500 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-23 14:47:29,613 - INFO - Excel fechado sem salvar.
+2025-06-23 14:47:43,723 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-23 14:47:43,954 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-23 14:47:46,647 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-23 14:47:46,651 - INFO - Excel aberto e responsivo.
+2025-06-23 14:47:50,839 - INFO - Dados colados na planilha de destino.
+2025-06-23 14:47:55,878 - INFO - Planilha salva.
+2025-06-23 14:47:55,879 - INFO - Processamento concluído com sucesso!
+2025-06-23 14:47:55,879 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-23 14:47:55,880 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-23 14:47:55,884 - INFO - Processo Excel 960 terminado.
+2025-06-23 14:47:57,914 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-30 10:25:48,431 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:26:10,534 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:27:47,183 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:33:01,588 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:34:31,757 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:38:18,798 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:39:02,410 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:39:41,461 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (138.0.3351.55); currently, msedgedriver 138.0.3351.55 is recommended for MicrosoftEdge 138.*, so it is advised to delete the driver in PATH and retry
+2025-06-30 10:45:29,418 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000104509LDI[1]104514.sswweb
+2025-06-30 10:45:31,867 - INFO - Abrindo arquivo: CSVLDI00000000104509LDI[1]104514.sswweb
+2025-06-30 10:45:32,703 - INFO - Aguardando Excel carregar com título: ldi00000000104509ldi104514...
+2025-06-30 10:45:38,069 - INFO - Conectado ao Excel: ldi00000000104509ldi104514.csv - Excel
+2025-06-30 10:45:38,074 - INFO - Excel aberto e responsivo.
+2025-06-30 10:45:40,208 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-30 10:45:40,710 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-30 10:45:41,212 - WARNING - Tentando acessar clipboard: (5, 'OpenClipboard', 'Acesso negado.')
+2025-06-30 10:45:41,726 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-30 10:45:45,833 - INFO - Excel fechado sem salvar.
+2025-06-30 10:45:59,922 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-30 10:46:01,890 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-30 10:46:04,543 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-30 10:46:04,546 - INFO - Excel aberto e responsivo.
+2025-06-30 10:46:08,737 - INFO - Dados colados na planilha de destino.
+2025-06-30 10:46:13,778 - INFO - Planilha salva.
+2025-06-30 10:46:13,779 - INFO - Processamento concluído com sucesso!
+2025-06-30 10:46:13,780 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-30 10:46:13,781 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-30 10:46:13,787 - INFO - Processo Excel 10456 terminado.
+2025-06-30 10:46:15,833 - WARNING - Aplicação Excel já não estava em execução.

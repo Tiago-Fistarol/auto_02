@@ -1,0 +1,21 @@
+2025-06-27 08:53:05,672 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-27 08:53:15,977 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-27 08:53:57,716 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
+2025-06-27 08:54:26,668 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\02.Gestão de Fretes\downloads_relatórios\CSVLDI00000000085406LDI[1]085412.sswweb
+2025-06-27 08:54:28,996 - INFO - Abrindo arquivo: CSVLDI00000000085406LDI[1]085412.sswweb
+2025-06-27 08:54:29,412 - INFO - Aguardando Excel carregar com título: ldi00000000085406ldi085412...
+2025-06-27 08:54:33,867 - INFO - Conectado ao Excel: ldi00000000085406ldi085412.csv - Excel
+2025-06-27 08:54:33,869 - INFO - Excel aberto e responsivo.
+2025-06-27 08:54:36,007 - INFO - Dados copiados do Excel para a área de transferência.
+2025-06-27 08:54:40,108 - INFO - Excel fechado sem salvar.
+2025-06-27 08:54:54,240 - INFO - Abrindo arquivo: DB_COTACAO_FRETES02.xlsx
+2025-06-27 08:54:54,366 - INFO - Aguardando Excel carregar com título: db_cotacao_fretes02...
+2025-06-27 08:54:57,351 - INFO - Conectado ao Excel: DB_COTACAO_FRETES02.xlsx - Excel
+2025-06-27 08:54:57,352 - INFO - Excel aberto e responsivo.
+2025-06-27 08:55:01,539 - INFO - Dados colados na planilha de destino.
+2025-06-27 08:55:06,581 - INFO - Planilha salva.
+2025-06-27 08:55:06,581 - INFO - Processamento concluído com sucesso!
+2025-06-27 08:55:06,581 - INFO - Finalizando e garantindo que todos os processos Excel sejam fechados.
+2025-06-27 08:55:06,581 - WARNING - Aplicação Excel já não estava em execução.
+2025-06-27 08:55:06,586 - INFO - Processo Excel 13632 terminado.
+2025-06-27 08:55:08,590 - WARNING - Aplicação Excel já não estava em execução.

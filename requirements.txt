@@ -1,0 +1,10 @@
+selenium==4.17.2
+pandas==2.2.0
+pyautogui==0.9.54
+pywinauto==0.6.8
+pillow==10.2.0
+openpyxl==3.1.2
+tkcalendar==1.6.1
+schedule==1.2.1
+sv-ttk==2.5.5
+msedge-selenium-tools==3.141.4
